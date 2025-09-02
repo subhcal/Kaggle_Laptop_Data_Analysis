@@ -1,6 +1,5 @@
 # Kaggle_Laptop_Data_Analysis
 This project analyzes laptop sales data from Kaggle......
-# Laptop Data Analysis Project
 
 This repository contains a data analysis project on Laptop Data sourced from Kaggle. The project involves cleaning and processing the dataset, followed by visualizing key insights using Tableau.
 
@@ -38,7 +37,7 @@ These visualizations provide valuable insights into market trends and product po
 
 Below is a screenshot of the Tableau dashboard showcasing the Company Wise Sale visualization:
 
-![Tableau Dashboard Screenshot](/company_wise_sale.png)
+![Tableau Dashboard Screenshot](github.com/subhcal/Kaggle_Laptop_Data_Analysis/blob/main/Screenshot%20(6).png)
 
 ## View the Dashboard
 
