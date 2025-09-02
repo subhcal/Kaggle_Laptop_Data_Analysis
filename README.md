@@ -37,7 +37,7 @@ These visualizations provide valuable insights into market trends and product po
 
 Below is a screenshot of the Tableau dashboard showcasing the Company Wise Sale visualization:
 
-![Tableau Dashboard Screenshot](github.com/subhcal/Kaggle_Laptop_Data_Analysis/blob/main/Screenshot(6).png)
+![Tableau Dashboard Screenshot](Screenshot(6).png)
 
 ## View the Dashboard
 
